@@ -25,6 +25,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Here are few images of the assignment
+
+### Home
+![dashboard](https://user-images.githubusercontent.com/12858790/140648631-482d4547-0f93-46de-8b95-580b2f0e393c.PNG)
+
+### Sidebar On hover
+![onhover](https://user-images.githubusercontent.com/12858790/140648702-3a77e817-67cb-43cb-b733-737771e5c109.png)
+
 
 
 
