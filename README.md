@@ -1,4 +1,4 @@
-# Pega assignment on building charts with mock data
+# Pega assignment on building charts with mock data, few images are below from application
 
 ## Implementation
 1. Implemented side navigation which will open/close on hover.
