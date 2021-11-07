@@ -33,6 +33,9 @@ You will also see any lint errors in the console.
 ### Sidebar On hover
 ![onhover](https://user-images.githubusercontent.com/12858790/140648702-3a77e817-67cb-43cb-b733-737771e5c109.png)
 
+### Other charts
+![more](https://user-images.githubusercontent.com/12858790/140648780-14d53392-c5d1-4a36-92f5-e53f97557bb3.png)
+
 
 
 
